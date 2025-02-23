@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>肖遥</copyright>
-        <lastBuildDate>Sun, 23 Feb 2025 14:11:23 +0800</lastBuildDate><atom:link href="https://shawyaw.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sun, 23 Feb 2025 16:12:13 +0800</lastBuildDate><atom:link href="https://shawyaw.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>测试</title>
+        <link>https://shawyaw.github.io/p/%E6%B5%8B%E8%AF%95/</link>
+        <pubDate>Sun, 23 Feb 2025 16:12:13 +0800</pubDate>
+        
+        <guid>https://shawyaw.github.io/p/%E6%B5%8B%E8%AF%95/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Equals方法和==的比较</title>
         <link>https://shawyaw.github.io/p/equals%E6%96%B9%E6%B3%95%E5%92%8C%E7%9A%84%E6%AF%94%E8%BE%83/</link>
         <pubDate>Sun, 23 Feb 2025 14:11:23 +0800</pubDate>

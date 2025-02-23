@@ -56,7 +56,7 @@
                     
                     
                         
-                        <img src="/img/avatar_hu8847756660132856563.png" width="300"
+                        <img src="/img/avatar_hu_653b1b9f20a3de30.png" width="300"
                             height="300" class="site-logo" loading="lazy" alt="Avatar">
                     
                 
@@ -370,52 +370,6 @@
      
     
         
-    <script src="https://utteranc.es/client.js" 
-        repo=""
-        issue-term="pathname"
-        
-        crossorigin="anonymous"
-        async
-        >
-</script>
-
-<style>
-    .utterances {
-        max-width: unset;
-    }
-</style>
-
-<script>
-    let utterancesLoaded = false;
-
-    function setUtterancesTheme(theme) {
-        let utterances = document.querySelector('.utterances iframe');
-        if (utterances) {
-            utterances.contentWindow.postMessage(
-                {
-                    type: 'set-theme',
-                    theme: `github-${theme}`
-                },
-                'https://utteranc.es'
-            );
-        }
-    }
-
-    addEventListener('message', event => {
-        if (event.origin !== 'https://utteranc.es') return;
-
-        
-        utterancesLoaded = true;
-        setUtterancesTheme(document.documentElement.dataset.scheme)
-    });
-
-    window.addEventListener('onColorSchemeChange', (e) => {
-        if (!utterancesLoaded) return;
-        setUtterancesTheme(e.detail)
-    })
-</script>
-
-
     
 
     <footer class="site-footer">
