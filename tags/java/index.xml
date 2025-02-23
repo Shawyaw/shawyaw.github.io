@@ -13,8 +13,7 @@
         <pubDate>Sun, 23 Feb 2025 14:11:23 +0800</pubDate>
         
         <guid>https://shawyaw.github.io/p/equals%E6%96%B9%E6%B3%95%E5%92%8C%E7%9A%84%E6%AF%94%E8%BE%83/</guid>
-        <description>&lt;h1 id=&#34;&#34;&gt;
-&lt;/h1&gt;&lt;h3 id=&#34;是一个比较运算符&#34;&gt;==是一个比较运算符
+        <description>&lt;h3 id=&#34;是一个比较运算符&#34;&gt;==是一个比较运算符
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;既可以判断基本类型，又可以判断引用类型&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;如果判断基本类型，判断的是值是否相等&lt;/strong&gt;&lt;/li&gt;

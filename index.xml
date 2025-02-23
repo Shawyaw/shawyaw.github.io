@@ -21,8 +21,7 @@
         <pubDate>Sun, 23 Feb 2025 14:11:23 +0800</pubDate>
         
         <guid>https://shawyaw.github.io/p/equals%E6%96%B9%E6%B3%95%E5%92%8C%E7%9A%84%E6%AF%94%E8%BE%83/</guid>
-        <description>&lt;h1 id=&#34;&#34;&gt;
-&lt;/h1&gt;&lt;h3 id=&#34;是一个比较运算符&#34;&gt;==是一个比较运算符
+        <description>&lt;h3 id=&#34;是一个比较运算符&#34;&gt;==是一个比较运算符
 &lt;/h3&gt;&lt;ul&gt;
 &lt;li&gt;&lt;strong&gt;既可以判断基本类型，又可以判断引用类型&lt;/strong&gt;&lt;/li&gt;
 &lt;li&gt;&lt;strong&gt;如果判断基本类型，判断的是值是否相等&lt;/strong&gt;&lt;/li&gt;
@@ -118,8 +117,38 @@
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
         <guid>https://shawyaw.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;p&gt;This is a test page for i18n support.&lt;/p&gt;
-</description>
+        <description>&lt;hr&gt;
+&lt;h3 id=&#34;关于我&#34;&gt;关于我
+&lt;/h3&gt;&lt;blockquote&gt;
+&lt;p&gt;本人擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、spss、sas等单词的拼写，熟悉Windows、Linux、Mac、Android、IOS、WP8等系统的开关机，公司缺人可以联系我&lt;/p&gt;&lt;/blockquote&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Name&lt;/th&gt;
+          &lt;th&gt;肖遥&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Gender&lt;/td&gt;
+          &lt;td&gt;男&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Age&lt;/td&gt;
+          &lt;td&gt;20&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;QQ&lt;/td&gt;
+          &lt;td&gt;934943370&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Address&lt;/td&gt;
+          &lt;td&gt;中国的某一个角落&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h3 id=&#34;个人技能&#34;&gt;个人技能
+&lt;/h3&gt;</description>
         </item>
         <item>
         <title>搜索</title>
