@@ -6,6 +6,31 @@
         <description>Recent content in Tags on 小酒窝</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
-        <copyright>肖遥</copyright><atom:link href="https://shawyaw.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+        <copyright>肖遥</copyright>
+        <lastBuildDate>Sun, 23 Feb 2025 14:11:23 +0800</lastBuildDate><atom:link href="https://shawyaw.github.io/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Equals</title>
+        <link>https://shawyaw.github.io/tags/equals/</link>
+        <pubDate>Sun, 23 Feb 2025 14:11:23 +0800</pubDate>
+        
+        <guid>https://shawyaw.github.io/tags/equals/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Java</title>
+        <link>https://shawyaw.github.io/tags/java/</link>
+        <pubDate>Sun, 23 Feb 2025 14:11:23 +0800</pubDate>
+        
+        <guid>https://shawyaw.github.io/tags/java/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Jdk</title>
+        <link>https://shawyaw.github.io/tags/jdk/</link>
+        <pubDate>Sun, 23 Feb 2025 14:11:23 +0800</pubDate>
+        
+        <guid>https://shawyaw.github.io/tags/jdk/</guid>
+        <description></description>
+        </item>
+        
     </channel>
 </rss>
