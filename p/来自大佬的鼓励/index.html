@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://shawyaw.github.io/p/%E6%9D%A5%E8%87%AA%E5%A4%A7%E4%BD%AC%E7%9A%84%E9%BC%93%E5%8A%B1/'>
 
-<link rel="stylesheet" href="/scss/style.min.8213be419b996570e5401c3db57b1732e8a8f1ad4be4783bc5ab4542a4323bfc.css"><meta property='og:title' content="来自大佬的鼓励">
+<link rel="stylesheet" href="/scss/style.min.e840c7f11f2e1840fa1bd0e03b49f00b81cde558dc493d97b23f680335f9f8f0.css"><meta property='og:title' content="来自大佬的鼓励">
 <meta property='og:description' content="\n相信自己，一步一个脚印，比自己厉害的人很多，我要做的就是让自己有进步，和自己慢慢比，加油，小酒窝\n">
 <meta property='og:url' content='https://shawyaw.github.io/p/%E6%9D%A5%E8%87%AA%E5%A4%A7%E4%BD%AC%E7%9A%84%E9%BC%93%E5%8A%B1/'>
 <meta property='og:site_name' content='小酒窝'>
@@ -459,6 +459,10 @@
         document.head.appendChild(customFont);
     }());
 </script>
+
+
+//-------------------
+//代码块过长折叠展开
 <style>
     .highlight {
          
@@ -538,53 +542,6 @@
   }
   
   initCodeMoreBox();
-</script>
-
-<style>
-    #TableOfContents > ul, ol {
-        ul, ol {
-            display: none;
-        }
-        .open {
-            display: block;
-        }
-    }
-</style>
-
-<script>
-    function initTocHide() {
-        
-        let toc = document.querySelector(".widget--toc");
-        if (!toc) {
-            return;
-        }
-        
-        window.addEventListener('scroll', function() {
-            
-            let openUl = document.querySelectorAll(".open");
-            if (openUl.length > 0) {
-              openUl.forEach((ul) => {
-                ul.classList.remove("open")
-              })
-            }
-            
-            let currentLi = document.querySelector(".active-class");
-            if (!currentLi) {
-                return
-            }
-            
-            if (currentLi.children.length > 1) {
-                currentLi.children[1].classList.add("open")
-            }
-            
-            let ul = currentLi.parentElement;
-            do {
-                ul.classList.add("open");
-                ul = ul.parentElement.parentElement
-            } while (ul !== undefined && (ul.localName === 'ul' || ul.localName === 'ol'))
-        });
-    }
-    initTocHide()
 </script>
 
     </body>
