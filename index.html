@@ -7,7 +7,7 @@
 
 <link rel='canonical' href='https://shawyaw.github.io/'>
 
-<link rel="stylesheet" href="/scss/style.min.a36ea58eec917694588005692d3a0287824d546578c5559d25c5563413d30100.css"><meta property='og:title' content="小酒窝">
+<link rel="stylesheet" href="/scss/style.min.21e955481a449f493b004f498b06bae1824a8bfce4ab8e70e8e6e6007f71c597.css"><meta property='og:title' content="小酒窝">
 <meta property='og:description' content="欢迎来到我的世界">
 <meta property='og:url' content='https://shawyaw.github.io/'>
 <meta property='og:site_name' content='小酒窝'>
@@ -340,6 +340,19 @@
     
     
 
+
+<div class="welcome">
+  <p style="font-size: 2rem; text-align: center; font-weight: bold">
+    <span class="shake">👋</span>
+    <span class="jump-text1" > Welcome</span>
+    <span class="jump-text2"> To </span>
+    <span class="jump-text3" style="color:#e99312">Shaw</span><span class="jump-text4" style="color:#e99312">y</span><span class="jump-text5" style="color:#e99312">a</span><span class="jump-text6" style="color:#e99312">w</span><span class="jump-text8" style="color:#e99312">'s</span>
+    <span class="jump-text9" style="color:#e99312">Blog</span>
+  </p>
+</div>
+
+
+
     <section class="article-list">
         
             
@@ -581,6 +594,16 @@
   }
   
   initCodeMoreBox();
+</script>
+
+<script src="https://npm.elemecdn.com/nprogress@0.2.0/nprogress.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://npm.elemecdn.com/nprogress@0.2.0/nprogress.css" crossorigin="anonymous" />
+<script>
+    NProgress.start();
+    document.addEventListener("readystatechange", () => {
+        if (document.readyState === "interactive") NProgress.inc(0.8);
+        if (document.readyState === "complete") NProgress.done();
+    });
 </script>
 
     </body>

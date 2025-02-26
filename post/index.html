@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://shawyaw.github.io/post/'>
 
-<link rel="stylesheet" href="/scss/style.min.a36ea58eec917694588005692d3a0287824d546578c5559d25c5563413d30100.css"><meta property='og:title' content="Posts">
+<link rel="stylesheet" href="/scss/style.min.21e955481a449f493b004f498b06bae1824a8bfce4ab8e70e8e6e6007f71c597.css"><meta property='og:title' content="Posts">
 <meta property='og:description' content="欢迎来到我的世界">
 <meta property='og:url' content='https://shawyaw.github.io/post/'>
 <meta property='og:site_name' content='小酒窝'>
@@ -488,6 +488,16 @@
   }
   
   initCodeMoreBox();
+</script>
+
+<script src="https://npm.elemecdn.com/nprogress@0.2.0/nprogress.js" crossorigin="anonymous"></script>
+<link rel="stylesheet" href="https://npm.elemecdn.com/nprogress@0.2.0/nprogress.css" crossorigin="anonymous" />
+<script>
+    NProgress.start();
+    document.addEventListener("readystatechange", () => {
+        if (document.readyState === "interactive") NProgress.inc(0.8);
+        if (document.readyState === "complete") NProgress.done();
+    });
 </script>
 
     </body>
