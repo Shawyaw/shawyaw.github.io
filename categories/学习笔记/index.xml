@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
-        <title>小酒窝</title>
-        <link>https://shawyaw.github.io/</link>
-        <description>Recent content on 小酒窝</description>
+        <title>学习笔记 on 小酒窝</title>
+        <link>https://shawyaw.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/</link>
+        <description>Recent content in 学习笔记 on 小酒窝</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>肖遥</copyright>
-        <lastBuildDate>Thu, 27 Feb 2025 14:49:58 +0800</lastBuildDate><atom:link href="https://shawyaw.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 27 Feb 2025 14:49:58 +0800</lastBuildDate><atom:link href="https://shawyaw.github.io/categories/%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Java设计模式之单例模式</title>
         <link>https://shawyaw.github.io/p/java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</link>
         <pubDate>Thu, 27 Feb 2025 14:49:58 +0800</pubDate>
@@ -75,27 +75,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>来自大佬的鼓励</title>
-        <link>https://shawyaw.github.io/p/%E6%9D%A5%E8%87%AA%E5%A4%A7%E4%BD%AC%E7%9A%84%E9%BC%93%E5%8A%B1/</link>
-        <pubDate>Tue, 25 Feb 2025 22:16:25 +0800</pubDate>
-        
-        <guid>https://shawyaw.github.io/p/%E6%9D%A5%E8%87%AA%E5%A4%A7%E4%BD%AC%E7%9A%84%E9%BC%93%E5%8A%B1/</guid>
-        <description>&lt;p&gt;&lt;img src=&#34;https://shawyaw.github.io/p/%E6%9D%A5%E8%87%AA%E5%A4%A7%E4%BD%AC%E7%9A%84%E9%BC%93%E5%8A%B1/weixin_20250225221254.jpg&#34;
-	width=&#34;1080&#34;
-	height=&#34;1352&#34;
-	srcset=&#34;https://shawyaw.github.io/p/%E6%9D%A5%E8%87%AA%E5%A4%A7%E4%BD%AC%E7%9A%84%E9%BC%93%E5%8A%B1/weixin_20250225221254_hu_362108568fc2613b.jpg 480w, https://shawyaw.github.io/p/%E6%9D%A5%E8%87%AA%E5%A4%A7%E4%BD%AC%E7%9A%84%E9%BC%93%E5%8A%B1/weixin_20250225221254_hu_5d963dfb50a02d66.jpg 1024w&#34;
-	loading=&#34;lazy&#34;
-	
-	
-		class=&#34;gallery-image&#34; 
-		data-flex-grow=&#34;79&#34;
-		data-flex-basis=&#34;191px&#34;
-	
-&gt;&lt;/p&gt;
-&lt;p&gt;相信自己，一步一个脚印，比自己厉害的人很多，我要做的就是让自己有进步，和自己慢慢比，加油，小酒窝&lt;/p&gt;
-</description>
         </item>
         <item>
         <title>Equals方法和==的比较</title>
@@ -184,73 +163,6 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
-        </item>
-        <item>
-        <title>归档</title>
-        <link>https://shawyaw.github.io/archives/</link>
-        <pubDate>Sun, 23 Feb 2025 00:00:00 +0000</pubDate>
-        
-        <guid>https://shawyaw.github.io/archives/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>关于</title>
-        <link>https://shawyaw.github.io/%E5%85%B3%E4%BA%8E/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://shawyaw.github.io/%E5%85%B3%E4%BA%8E/</guid>
-        <description>&lt;hr&gt;
-&lt;h3 id=&#34;关于我&#34;&gt;关于我
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;本人擅长Ai、Fw、Fl、Br、Ae、Pr、Id、Ps等软件的安装与卸载，精通CSS、JavaScript、PHP、ASP、C、C＋＋、C#、Java、Ruby、Perl、Lisp、python、Objective-C、ActionScript、Pascal、spss、sas等单词的拼写，熟悉Windows、Linux、Mac、Android、IOS、WP8等系统的开关机，公司缺人可以联系我&lt;/p&gt;&lt;/blockquote&gt;
-&lt;table&gt;
-  &lt;thead&gt;
-      &lt;tr&gt;
-          &lt;th&gt;Name&lt;/th&gt;
-          &lt;th&gt;肖遥&lt;/th&gt;
-      &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tbody&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Gender&lt;/td&gt;
-          &lt;td&gt;男&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Age&lt;/td&gt;
-          &lt;td&gt;20&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;QQ&lt;/td&gt;
-          &lt;td&gt;934943370&lt;/td&gt;
-      &lt;/tr&gt;
-      &lt;tr&gt;
-          &lt;td&gt;Address&lt;/td&gt;
-          &lt;td&gt;中国的某一个角落&lt;/td&gt;
-      &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-&lt;h3 id=&#34;个人技能&#34;&gt;个人技能
-&lt;/h3&gt;&lt;blockquote&gt;
-&lt;p&gt;前端三件套 &lt;code&gt;html&lt;/code&gt; &lt;code&gt;css&lt;/code&gt; &lt;code&gt;javascript&lt;/code&gt; &lt;del&gt;基本熟悉&lt;/del&gt; 那肯定是假的😝&lt;/p&gt;&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;MYSQL数据库语句 &lt;code&gt;增&lt;/code&gt; &lt;code&gt;删&lt;/code&gt; &lt;code&gt;查&lt;/code&gt; &lt;code&gt;改&lt;/code&gt; 一个也不会🤪&lt;/p&gt;&lt;/blockquote&gt;
-</description>
-        </item>
-        <item>
-        <title>搜索</title>
-        <link>https://shawyaw.github.io/search/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://shawyaw.github.io/search/</guid>
-        <description></description>
-        </item>
-        <item>
-        <title>友人帐</title>
-        <link>https://shawyaw.github.io/%E5%8F%8B%E4%BA%BA%E5%B8%90/</link>
-        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-        
-        <guid>https://shawyaw.github.io/%E5%8F%8B%E4%BA%BA%E5%B8%90/</guid>
-        <description></description>
         </item>
         
     </channel>
