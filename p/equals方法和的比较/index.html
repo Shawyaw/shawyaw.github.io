@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='https://shawyaw.github.io/p/equals%E6%96%B9%E6%B3%95%E5%92%8C%E7%9A%84%E6%AF%94%E8%BE%83/'>
 
-<link rel="stylesheet" href="/scss/style.min.21e955481a449f493b004f498b06bae1824a8bfce4ab8e70e8e6e6007f71c597.css"><meta property='og:title' content="Equals方法和==的比较">
+<link rel="stylesheet" href="/scss/style.min.31c98a87ce68430c01fc66bcd3dbeee0a874f551cf8bf7afad7be1556643392f.css"><meta property='og:title' content="Equals方法和==的比较">
 <meta property='og:description' content="==是一个比较运算符 既可以判断基本类型，又可以判断引用类型 如果判断基本类型，判断的是值是否相等 如果判断引用类型，判断的是地址是否相等，即判断是不是同一个对象 equals是Object类中的方法 只能判断引用类型 默认判断的是地址是否相等，子类中往往重写该方法，用于判断内容是否相等，比如Integer，String 在integer类中重写的equals方法，判断的是值是否相等，String类中的equals方法判断的是字符串是否匹配(相等)，以下为源码 String类中重写equals方法 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 17 18 19 20 21 public boolean equals(Object anObject) { if (this == anObject) { return true; } if (anObject instanceof String) { String anotherString = (String)anObject; int n = value.length; if (n == anotherString.value.length) { char v1[] = value; char v2[] = anotherString.value; int i = 0; while (n-- != 0) { if (v1[i] != v2[i]) return false; i++; } return true; } } return false; } Integer类中重写equals方法 1 2 3 4 5 6 public boolean equals(Object obj) { if (obj instanceof Integer) { return value == ((Integer)obj).intValue(); } return false; } ">
 <meta property='og:url' content='https://shawyaw.github.io/p/equals%E6%96%B9%E6%B3%95%E5%92%8C%E7%9A%84%E6%AF%94%E8%BE%83/'>
 <meta property='og:site_name' content='小酒窝'>

@@ -19,7 +19,6 @@
 &lt;/h3&gt;&lt;p&gt;&lt;strong&gt;1.将构造器私有化，防止直接创建新对象&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;2.在类的内部直接创建一个对象(该对象是static)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;3.提供一个公共的static方法，返回gf对象&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;该模式在类加载时就创建了对象&lt;/strong&gt;&lt;/p&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
@@ -74,7 +73,8 @@
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;w&#34;&gt;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;&lt;span class=&#34;w&#34;&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;</description>
+&lt;/div&gt;&lt;p&gt;&lt;strong&gt;该模式在类加载时就创建了对象，如果该对象基本不怎么使用，会造成对资源的浪费&lt;/strong&gt;&lt;/p&gt;
+</description>
         </item>
         <item>
         <title>Equals方法和==的比较</title>
