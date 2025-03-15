@@ -7,7 +7,15 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>zh-cn</language>
         <copyright>肖遥</copyright>
-        <lastBuildDate>Thu, 27 Feb 2025 14:49:58 +0800</lastBuildDate><atom:link href="https://shawyaw.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 06 Mar 2025 20:41:22 +0800</lastBuildDate><atom:link href="https://shawyaw.github.io/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>测试文章</title>
+        <link>https://shawyaw.github.io/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</link>
+        <pubDate>Thu, 06 Mar 2025 20:41:22 +0800</pubDate>
+        
+        <guid>https://shawyaw.github.io/p/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/</guid>
+        <description></description>
+        </item>
+        <item>
         <title>Java设计模式之单例模式</title>
         <link>https://shawyaw.github.io/p/java%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F%E4%B9%8B%E5%8D%95%E4%BE%8B%E6%A8%A1%E5%BC%8F/</link>
         <pubDate>Thu, 27 Feb 2025 14:49:58 +0800</pubDate>
